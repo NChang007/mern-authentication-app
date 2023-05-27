@@ -32,7 +32,7 @@ This is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) application f
 
 ## Installation
 
-1. Clone the repository: 
+1. Clone the repository: https://github.com/NChang007/mern-authentication-app
 2. Navigate to the project directory: cd mern-authentication-app
 3. Install the server dependencies: npm install
 4. Navigate to the client directory: cd frontend
